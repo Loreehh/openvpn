@@ -1,7 +1,7 @@
 # openvpn
 Setup for openVPN
 
-#What i have to do?
+# What i have to do?
 
 1) Install OpenVPN
 2) Download the "Server" folder
