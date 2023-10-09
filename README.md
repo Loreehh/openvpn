@@ -1,5 +1,5 @@
 # openvpn
-Setup for openVPN
+Setup for openVPN   (vpnbook.com)
 
 # What i have to do?
 
